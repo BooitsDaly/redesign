@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\bin\Debug\RestUtil.dll
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\bin\Debug\RestUtil.pdb
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\obj\Debug\RestUtil.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\obj\Debug\RestUtil.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\obj\Debug\RestUtil.dll
+C:\Users\student\Desktop\2171\Class 6\P3\RestUtil\obj\Debug\RestUtil.pdb
+P:\P3\P3\RestUtil\bin\Debug\RestUtil.dll
+P:\P3\P3\RestUtil\bin\Debug\RestUtil.pdb
+P:\P3\P3\RestUtil\obj\Debug\RestUtil.csprojResolveAssemblyReference.cache
+P:\P3\P3\RestUtil\obj\Debug\RestUtil.dll
+P:\P3\P3\RestUtil\obj\Debug\RestUtil.pdb
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\bin\Debug\RestUtil.dll
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\bin\Debug\RestUtil.pdb
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\obj\Debug\RestUtil.csprojResolveAssemblyReference.cache
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\obj\Debug\RestUtil.csproj.CoreCompileInputs.cache
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\obj\Debug\RestUtil.dll
+C:\Users\Caitlyn\Google Drive\Classes\Fall2017\Client\C#\P3\RestUtil\obj\Debug\RestUtil.pdb
