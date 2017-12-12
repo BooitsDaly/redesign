@@ -73,6 +73,7 @@
             this.Controls.Add(this.nav);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.nav.ResumeLayout(false);
             this.ResumeLayout(false);
 
