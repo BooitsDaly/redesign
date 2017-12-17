@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace project3_Daly
 {
@@ -128,6 +129,8 @@ namespace project3_Daly
 
     public class Resources
     {
+        internal LinkLabel Text;
+
         public string title { get; set; }
         public string subTitle { get; set; }
         public StudyAbroad studyAbroad { get; set; }
